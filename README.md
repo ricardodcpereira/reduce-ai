@@ -30,7 +30,7 @@ This three-day hands-on workshop, held from May 5 to 7, 2025, at the University 
 
 ---
 
-### **Day 2 - May 7, 2025**  
+### **Day 3 - May 7, 2025**  
 **Theme:** *Evaluating Model Performance*  
 **Instructors:** <br>• [Nina del Rio Ares](https://www.iim.csic.es/en/about-iim/staff/nina-del-rio), Institute of Marine Research (IIM-CSIC), Spain <br>• [Catarina Silva](https://catarinasilva.weebly.com), University of Coimbra (CFE), Portugal <br>• [Ricardo Cardoso Pereira](https://ricardodcpereira.com/), University of Coimbra (CISUC), Portugal  
 
