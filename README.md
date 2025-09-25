@@ -21,6 +21,7 @@ This three-day hands-on workshop, held from May 5 to 7, 2025, at the University 
 
 ### **Day 2 - May 6, 2025**  
 **Theme:** *Deep Learning Techniques for Image Recognition*  
+**Video Recording:** [https://www.youtube.com/watch?v=nbdUjlNauwU](https://www.youtube.com/watch?v=nbdUjlNauwU)<br>
 **Instructors:** <br>• [Catarina Silva](https://catarinasilva.weebly.com), University of Coimbra (CFE), Portugal <br>• [Ricardo Cardoso Pereira](https://ricardodcpereira.com/), University of Coimbra (CISUC), Portugal
 
 | Session | Duration | Topics |
@@ -32,6 +33,7 @@ This three-day hands-on workshop, held from May 5 to 7, 2025, at the University 
 
 ### **Day 3 - May 7, 2025**  
 **Theme:** *Evaluating Model Performance*  
+**Video Recording:** [https://www.youtube.com/watch?v=LzA-5owxNcc](https://www.youtube.com/watch?v=LzA-5owxNcc)<br>
 **Instructors:** <br>• [Nina del Rio Ares](https://www.iim.csic.es/en/about-iim/staff/nina-del-rio), Institute of Marine Research (IIM-CSIC), Spain <br>• [Catarina Silva](https://catarinasilva.weebly.com), University of Coimbra (CFE), Portugal <br>• [Ricardo Cardoso Pereira](https://ricardodcpereira.com/), University of Coimbra (CISUC), Portugal  
 
 | Session | Duration | Topics |
